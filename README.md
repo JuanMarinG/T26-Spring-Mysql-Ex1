@@ -3,7 +3,7 @@
 
 ### CONEXION HEROKU APP 
 ```
-https://dashboard.heroku.com/apps/app-ud26-ex1
+https://app-ud26-ex1.herokuapp.com/
 ```
 ### CADENA CONEXION DDBB HEROKU
 ```
